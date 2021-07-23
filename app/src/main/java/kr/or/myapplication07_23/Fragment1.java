@@ -23,7 +23,7 @@ public class Fragment1 extends Fragment {
         TextView fg1_tv_data =  view.findViewById(R.id.fg1_tv_data);
 
         fg1_tv_data.setText("첫 번째 프래그먼트 화면");
-
+# 12314143132
         return view;
     }
 }
